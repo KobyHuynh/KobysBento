@@ -52,25 +52,25 @@ const CONFIG = {
 
 	firstButtonsContainer: [
 		{
-			id: '1',
+			id: '4',
 			name: 'Github',
 			icon: 'github',
 			link: 'https://github.com/',
 		},
 		{
-			id: '2',
+			id: '1',
 			name: 'Mail',
 			icon: 'mail',
 			link: 'https://mail.google.com/mail',
 		},
 		{
-			id: '3',
+			id: '6',
 			name: 'Todoist',
 			icon: 'trello',
 			link: 'https://todoist.com',
 		},
 		{
-			id: '4',
+			id: '2',
 			name: 'Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
@@ -82,7 +82,7 @@ const CONFIG = {
 			link: 'https://reddit.com',
 		},
 		{
-			id: '6',
+			id: '3',
 			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
