@@ -76,13 +76,13 @@ const CONFIG = {
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '3',
+			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
-			id: '5',
+			id: '3',
 			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
