@@ -64,10 +64,10 @@ const CONFIG = {
 			link: 'https://mail.google.com/mail',
 		},
 		{
-			id: '3',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			id: '4',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
 			id: '4',
@@ -76,10 +76,10 @@ const CONFIG = {
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '5',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			id: '4',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
 			id: '6',
