@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
-		},
-		{
-			id: '4',
 			name: 'Github',
 			icon: 'github',
 			link: 'https://github.com/',
+		},
+		{
+			id: '4',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
 			id: '5',
